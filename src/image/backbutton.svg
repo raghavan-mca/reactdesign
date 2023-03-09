@@ -1,0 +1,15 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="512"
+      height="512"
+      enableBackground="new 0 0 512 512"
+      viewBox="0 0 24 24"
+    >
+      <path
+        fill="#fff"
+        fillRule="evenodd"
+        d="M15 4a1 1 0 111.414 1.414l-5.879 5.879a1 1 0 000 1.414l5.88 5.879A1 1 0 0115 20l-7.293-7.293a1 1 0 010-1.414z"
+        clipRule="evenodd"
+        data-original="#000000"
+      ></path>
+    </svg>
